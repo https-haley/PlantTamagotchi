@@ -6,7 +6,8 @@ ESP32 - https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers
 https://mischianti.org/rgb-image-to-byte-array-converter-for-arduino-tft-displays/#google_vignette
 Change height and width to match screen size in pixels
 
-## Install in Aurdino Library ##
+## In Aurdino ##
+### Install in Aurdino Library ###
 - esp32 by Espressif Systems
 - TFT_eSPI by Bodmer
 

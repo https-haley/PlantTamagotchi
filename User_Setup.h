@@ -10,6 +10,7 @@
 #define TFT_RST  4
 #define TFT_MISO -1
 
+#define SMOOTH_FONT
 #define LOAD_GLCD
 #define LOAD_FONT2
 #define LOAD_FONT4

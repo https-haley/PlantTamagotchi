@@ -4,7 +4,7 @@ ESP32 - https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers
 
 ## PNG to Aurdino Code ##
 https://mischianti.org/rgb-image-to-byte-array-converter-for-arduino-tft-displays/#google_vignette
-Change height and width to match screen size in pixels
+- Change height and width to match screen size in pixels
 
 ## In Aurdino ##
 ### Install in Aurdino Library ###
